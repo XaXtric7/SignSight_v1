@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# PyCharm or IntelliJ config
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS-specific
+.DS_Store
+
+# Optional: PDF or heavy presentation files
+*.pdf
